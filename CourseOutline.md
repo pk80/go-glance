@@ -11,6 +11,11 @@
    2. on windows
 4. Local environment setup
 5. Text editor
+   1. Vistual Studio
+   2. GoLand
+   3. Vim
+   4. Eclipse
+   5. etc...
 6. Tools
 ## Basic
 1. Basic syntax
