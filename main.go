@@ -10,5 +10,9 @@ func main() {
 	fmt.Println("Hello World!")
 	
 	// basic
+	fmt.Println("------------------------------------------------")
 	basic.PrintGoEnv()
+	fmt.Println("------------------------------------------------")
+	basic.DataTypes()
+	fmt.Println("------------------------------------------------")
 }

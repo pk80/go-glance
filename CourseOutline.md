@@ -29,10 +29,20 @@
    1. Hello world
    2. Executing go program
 3. Data Types
-   1. Native data types
-   2. Integer types
-   3. Floating Types
-   4. Other Numeric types
+   1. Basic type
+      - Numbers
+      - Strings
+      - Booleans
+   2. Aggregate type
+      - Arrays
+      - Structs
+   3. Reference type
+      - Pointers
+      - Slices
+      - Maps
+      - Functions
+      - Channels
+   4. Interface type
 4. Variables
    1. Definition of a variable
    2. Static type declaration
